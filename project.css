@@ -12,7 +12,9 @@ scroll-behavior: smooth;
 }
 
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 /*mobile size*/
 
