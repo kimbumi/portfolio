@@ -13,8 +13,8 @@ scroll-behavior: smooth;
 
 
 html {
-  scroll-behavior: smooth;
-}
+    scroll-behavior: smooth;
+  }
 
 /*mobile size*/
 
@@ -396,7 +396,7 @@ section{
 
 
 .problem-text .box{
-   background-color:rgb(184, 172, 255);
+   background-color:rgb(184, 172, 255, 0.6);
     
     
     }
@@ -409,7 +409,7 @@ section{
         min-height:60vh;
         padding:20px;
         width: 100%;
-        background-color:   rgba(29,30,33);
+        background-color:   #F5F6FA;
         
         justify-content: center;
         display: flex;
@@ -427,7 +427,7 @@ section{
         justify-content: center;
         display: flex;
         flex-direction: column;
-        color:white;
+        
        
        
     
@@ -440,7 +440,7 @@ section{
         font-weight:500;
         padding:2rem 0;
         line-height: 2.6rem;
-        color:white;
+       
        
     
     }
@@ -455,7 +455,7 @@ section{
     
     
     .hypo-text .box{
-       background-color: rgb(4, 236, 205, 0.8);
+       background-color: rgb(4, 236, 205, 0.4);
         
         
         }
@@ -481,8 +481,8 @@ section{
 
     }
     .research-text h3{
-        font-size:1.6rem;
-        font-weight:700;
+        font-size:1.4rem;
+        font-weight:600;
         line-height: 2.4rem;
         padding-bottom:1rem;
 
@@ -520,7 +520,7 @@ section{
         height: auto;
         padding:20px;
         width: 100%;
-        background-color:  #e6dee9;
+        background-color:   #F5F6FA;
          justify-content: center;
         display: flex;
         flex-direction: column;
@@ -547,7 +547,6 @@ section{
         justify-content: center;
         display: flex;
         flex-direction: column;
-        color:rgba(29,30,33);
        
 
     }
@@ -557,7 +556,7 @@ section{
         border-radius: .4rem;
         display: block;
         margin:2.4rem 0;
-        box-shadow: 0 20px 25px -5px rgba(0,0,0,.1), 0 10px 10px -5px rgba(0,0,0,.04);
+        box-shadow: 0 20px 25px -5px rgba(0,0,0,.08), 0 10px 10px -5px rgba(0,0,0,.04);
         
 
         
@@ -600,8 +599,9 @@ section{
     .finaldesign{
         width: 100%;
         height: 30vh;
-        display: block;
-        background-image: url(final.jpg);
+        background-color: white;
+    display: block;
+        background-image: url(final.png);
         background-repeat: no-repeat;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -655,9 +655,9 @@ section{
         padding-top:2rem;
     }
     .finaltext h3{
-        font-size: 1.6rem;
-    font-weight: 700;
-    line-height: 2.4rem;
+        font-size:1.4rem;
+        font-weight:600;
+        line-height: 2.4rem;
     
 
     }
@@ -665,9 +665,9 @@ section{
     .finaltext h5{
         font-size: 1.2rem;
     font-weight: 400;
-    line-height: 2.4rem;
+    line-height: 2rem;
     color:rgb(142, 124, 241);
-    padding-bottom:2rem;
+    padding-bottom:1rem;
 
     }
 
