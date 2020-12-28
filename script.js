@@ -1,6 +1,6 @@
 //typing animation script
 var type = new Typed(".typing", {
-    strings: ["UX Designer.", "Youtuber.", "Photographer."],
+    strings: ["UX Designer.", "YouTuber.", "Photographer."],
     typeSpeed: 80,
     backSpeed: 50,
     loop: true
