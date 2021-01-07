@@ -410,12 +410,15 @@ section{
 
 .email{
 	 text-decoration: none;
+	color:rgba(245, 245, 245, 0.664)
+	
 }
 
 
 .email:hover{
 	 text-decoration: none;
 	 color:rgb(4, 236, 205);
+	 
 }
 
 
