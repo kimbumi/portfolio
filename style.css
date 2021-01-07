@@ -437,7 +437,7 @@ outline:none;
 }
 
 .email input:focus {
-  outline: none
+  outline: none;
 }
 
 
@@ -477,7 +477,7 @@ outline:none;
 
 
 .cv .cv-button input:focus {
-  outline: none
+  outline: none;
 }
 
 
