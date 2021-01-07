@@ -408,6 +408,16 @@ section{
     
  }
 
+.email{
+	 text-decoration: none;
+}
+
+
+.email:hover{
+	 text-decoration: none;
+	 color:rgb(4, 236, 205);
+}
+
 
 .about-img{
     
