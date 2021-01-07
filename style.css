@@ -244,6 +244,11 @@ section{
     border: 1px solid rgb(4, 236, 205);}
 
 
+.button input:focus{
+outline:none;
+}
+
+
 /* End banner Section */
 
 
@@ -359,6 +364,16 @@ section{
 }
 .work-button i:hover{
     color: rgb(4, 236, 205);
+}
+
+
+.work-button a input:focus{
+outline:none;
+}
+
+
+.work-button i input:focus{
+outline:none;
 }
 
 /* End Work section*/
