@@ -421,6 +421,10 @@ section{
 	 
 }
 
+.email input:focus {
+  outline: none
+}
+
 
 .about-img{
     
@@ -457,6 +461,9 @@ section{
     border: 1px solid rgb(4, 236, 205);}
 
 
+.cv .cv-button input:focus {
+  outline: none
+}
 
 
 /* End About Section */
