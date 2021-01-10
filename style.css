@@ -470,12 +470,17 @@ section{
 
 .extra{
     width:100%;
-    height:80vh;
+    height:100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     color:rgba(245, 245, 245, 0.664);
     font-weight: 600;
+}
+
+
+.PicCollage{
+	padding-top:100px;
 }
 
 
@@ -611,7 +616,6 @@ section{
 
       }
 /* about page - skill */
-
 
 
 /* Footer Section */
